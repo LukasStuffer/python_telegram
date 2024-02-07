@@ -3,7 +3,6 @@
 # Lukas Stuffer
 # IG: _lukasstuffer_
 
-
 import requests
 import json
 
@@ -19,6 +18,7 @@ class TelegramNotification:
     def send(self):
 
         try:
+            
             for cid in self.chat_id:
 
                 url = 'https://api.telegram.org/bot' + self.token + '/sendMessage'
