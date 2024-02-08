@@ -9,8 +9,10 @@ Example (main.py):
 
 from notification_telegram import TelegramNotification
 
-telegram = TelegramNotification(token='2834145567:FASRQWXDakJCEd2T7q1kLU2Zm3j4fDSaJ0A')
-
-telegram.chat_id    = ['1356462978']
-telegram.txt        = 'Telegram sent successfully.'
-telegram.send()
+if __name__ == "__main__":
+  
+  telegram = TelegramNotification(token='2834145567:FASRQWXDakJCEd2T7q1kLU2Zm3j4fDSaJ0A')
+  
+  telegram.chat_id    = ['1356462978']
+  telegram.txt        = 'Telegram sent successfully.'
+  telegram.send()
