@@ -11,6 +11,9 @@ Copy `notification_telegram.py` into your project folder
    ─ main.py
    ─ notification_telegram.py
 ```
+
+Get the chat ID and a token: https://www.cytron.io/tutorial/how-to-create-a-telegram-bot-get-the-api-key-and-chat-id
+
 Example (main.py)
 -
 ```python
