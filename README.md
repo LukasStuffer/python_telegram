@@ -7,6 +7,10 @@ Installation
 
 Copy `notification_telegram.py` into your project folder
 
+─ Example
+   ─ main.py
+   ─ notification_telegram.py
+   
 Example (main.py)
 -
 ```python
