@@ -1,6 +1,6 @@
 Description
 -
-Send a message via Telegram with python3
+Send a message via Telegram with #python3
 
 Installation
 -
