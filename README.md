@@ -1,18 +1,18 @@
 Description
 -
-Send a message via Telegram with python3
+Send a message via Telegram with python3.
 
 Installation
 -
 
-Copy `notification_telegram.py` into your project folder
+1. Copy `notification_telegram.py` into your project folder.
 ```
 ─ YourProject
    ─ main.py
    ─ notification_telegram.py
 ```
 
-Get the chat ID and a token: https://www.cytron.io/tutorial/how-to-create-a-telegram-bot-get-the-api-key-and-chat-id
+2. Get the chat ID and a token: https://www.cytron.io/tutorial/how-to-create-a-telegram-bot-get-the-api-key-and-chat-id
 
 Example (main.py)
 -
