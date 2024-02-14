@@ -1,11 +1,9 @@
 Send a message via Telegram with python3
-
-
+-
 Installation:
 
 Copy notification_telegram.py into your project folder
-
-
+-
 Example (main.py):
 ```python
 #!/usr/bin/python3
